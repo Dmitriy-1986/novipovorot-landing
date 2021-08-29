@@ -188,13 +188,6 @@ body {
     border-radius: .25rem;
 }
 
-.content img:hover {
-    transform: rotate(15deg);
-    transform-origin: 25% 75%;
-    -webkit-transform: rotate(15deg);
-    -webkit-transform-origin: 25% 75%;
-}
-
 .footer {
     padding: 25px 0 25px 5px;
     background-color: rgba(61, 60, 60, 0.472);
