@@ -2,5 +2,11 @@
   "tourTitle": "Сырная Ферма С Дегустацией",
   "tourPicture": "https://novipovorot.pp.ua/images/cheese-farm/cheese-farm/inside-cheese-farm.jpg",
   "tourDate": "Дата тура",
-  "tourSubtitle": "СЫРНАЯ ФЕРМА С ДЕГУСТАЦИЕЙ 7 ВИДОВ СЫРА, ЙОГУРТА И МОЛОКА! САМАЯ ВКУСНАЯ ЭКСКУРСИЯ"
+  "tourSubtitle": "СЫРНАЯ ФЕРМА С ДЕГУСТАЦИЕЙ 7 ВИДОВ СЫРА, ЙОГУРТА И МОЛОКА! САМАЯ ВКУСНАЯ ЭКСКУРСИЯ",
+  "paragraph": [
+    {
+      "one" : "Molecule Man",
+      "two" : 29,
+      "three" : "Dan Jukes"
+    }
 }
